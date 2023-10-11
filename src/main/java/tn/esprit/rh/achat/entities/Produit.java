@@ -1,5 +1,5 @@
 package tn.esprit.rh.achat.entities;
-
+////////////// modificaation pour test////////
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Set;
