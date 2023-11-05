@@ -15,7 +15,7 @@ services:
   app:
     depends_on:
       - mysqldb
-    build: ./oussamamdaini/achat # Spécifiez le chemin du Dockerfile de votre application Spring Boot
+    build: ./achat-achat  # Spécifiez le chemin du Dockerfile de votre application Spring Boot
     restart: on-failure
     ports:
       - 8089:8089
